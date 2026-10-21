@@ -1,0 +1,4 @@
+interface:
+  display_name: "JIEKE-AI Celestial Prompt Craft"
+  short_description: "Generate structured cinematic Chinese celestial palace prompts"
+  default_prompt: "Use $jieke-ai-celestial-prompt-craft to create a cinematic Chinese celestial palace image prompt."
