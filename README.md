@@ -4,7 +4,7 @@
 
 ## 中文说明
 
-这是一个用于创作和压缩中式天宫、悬浮宫殿、仙侠天空城市与东方幻想建筑画面提示词的 Codex Skill。它整理了本次对话中的共同结构和 30 组场景样例。
+这是一个用于创作和压缩中式天宫、悬浮宫殿、仙侠天空城市与东方幻想建筑画面提示词的 Codex Skill。它整理了 30 组场景样例。
 
 ### 核心能力
 
@@ -39,7 +39,7 @@ jieke-ai-celestial-prompt-craft/
 
 ## English Documentation
 
-JIEKE-AI Celestial Prompt Craft is a Codex Skill for creating and compressing image prompts for Chinese celestial palaces, floating heavenly cities, xianxia-inspired environments, and East Asian fantasy architecture. It captures the shared structure from this conversation and includes 30 reusable scene prompts.
+JIEKE-AI Celestial Prompt Craft is a Codex Skill for creating and compressing image prompts for Chinese celestial palaces, floating heavenly cities, xianxia-inspired environments, and East Asian fantasy architecture. It captures 30 reusable scene prompts.
 
 ### Capabilities
 
