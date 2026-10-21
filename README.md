@@ -14,18 +14,6 @@
 - 用户要求时将单组提示词压缩到 900 字符以内。
 - 保持巨型古建、极小人物、云海浮岛、自然奇观和柔和电影光线的统一审美。
 
-### 技术名称与公开名称
-
-技能平台要求技术名称使用小写连字符，因此目录名和 `SKILL.md` 使用 `jieke-ai-celestial-prompt-craft`。公开展示名和候选名称保留 `JIEKE-AI-` 前缀。
-
-可选公开名称如下。
-
-- `JIEKE-AI-Celestial-Prompt-Craft`
-- `JIEKE-AI-Chinese-Heaven-Prompts`
-- `JIEKE-AI-Xianxia-Scene-Forge`
-- `JIEKE-AI-Oriental-Sky-Palace`
-- `JIEKE-AI-Immense-Eastern-Fantasy`
-
 ### 安装
 
 将整个 `jieke-ai-celestial-prompt-craft` 文件夹复制到 Codex 的 skills 目录。完成后可用 `$jieke-ai-celestial-prompt-craft` 显式调用，也可以让 Codex 根据请求自动发现。
